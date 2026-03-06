@@ -133,6 +133,9 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
 <img src="foto2.jpg">
 <img src="foto3.jpg">
 <img src="foto4.jpg">
+  foto1.jpg  ← foto de vocês dois se olhando
+foto2.jpg  ← foto dela com a flor
+foto3.jpg  ← foto do beijo
 </div>
 
 <button onclick="mostrarMensagem()">Clique aqui Luanna ❤️</button>
